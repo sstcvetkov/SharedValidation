@@ -1,0 +1,29 @@
+﻿{
+  "Controllers-AccountController": {
+    "AgeDisplayName": "Age",
+    "AgeRange": "18 - 150",
+    "AgeRangeMessage": "{0} must be {1}",
+    "EmailDisplayName": "Email",
+    "EmailPattern": "^[-\\w.]+@([A-z0-9][-A-z0-9]+\\.)+[A-z]{2,4}$",
+    "EmailPatternMessage": "Incorrect email",
+    "EmailRequired": "",
+    "EmailRequiredMessage": "Email required",
+    "LanguageDisplayName": "Language",
+    "LanguageValues": "ru-RU, en-US",
+    "LanguageValuesMessage": "Incorrect language. Possible: {1}",
+    "NameDisplayName": "Name",
+    "NameLength": "2 - 50",
+    "NameLengthMessage": "Name length must be {1} characters",
+    "PasswordConfirmCompare": "Password",
+    "PasswordConfirmCompareMessage": "Passwords must be the same",
+    "PasswordConfirmDisplayName": "Password confirmation",
+    "PasswordDisplayName": "Password",
+    "PasswordMaxLength": "100",
+    "PasswordMaxLengthMessage": "{0} can't be greater than {1} characters",
+    "PasswordMinLength": "8",
+    "PasswordMinLengthMessage": "{0} must be at least {1} characters",
+    "PasswordRequired": "",
+    "PasswordRequiredMessage": "Password required",
+    "RegisteredMessage": "{0}, you've been registered!"
+  }
+}

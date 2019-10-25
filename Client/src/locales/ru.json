@@ -1,0 +1,29 @@
+﻿{
+  "Controllers-AccountController": {
+    "AgeDisplayName": "Возраст",
+    "AgeRange": "18 - 150",
+    "AgeRangeMessage": "{0} должен быть в пределах {1}",
+    "EmailDisplayName": "Адрес эл. почты",
+    "EmailPattern": "^[-\\w.]+@([A-z0-9][-A-z0-9]+\\.)+[A-z]{2,4}$",
+    "EmailPatternMessage": "Некорректный адрес эл. почты",
+    "EmailRequired": "",
+    "EmailRequiredMessage": "Требуется адрес эл. почты",
+    "LanguageDisplayName": "Язык",
+    "LanguageValues": "ru-RU, en-US",
+    "LanguageValuesMessage": "Некорректный язык. Допустимые значения: {1}",
+    "NameDisplayName": "Имя",
+    "NameLength": "2 - 50",
+    "NameLengthMessage": "Длина имени должна быть {1} символов",
+    "PasswordConfirmCompare": "Password",
+    "PasswordConfirmCompareMessage": "Пароли не совпадают",
+    "PasswordConfirmDisplayName": "Подтверждение пароля",
+    "PasswordDisplayName": "Пароль",
+    "PasswordMaxLength": "100",
+    "PasswordMaxLengthMessage": "{0} не может превышать {1} символов",
+    "PasswordMinLength": "6",
+    "PasswordMinLengthMessage": "{0} должен быть минимум {1} символов",
+    "PasswordRequired": "",
+    "PasswordRequiredMessage": "Требуется пароль",
+    "RegisteredMessage": "{0}, вы зарегистрированы!"
+  }
+}
